@@ -48,7 +48,6 @@ class App extends React.Component {
         playlistName: 'New Playlist',
         playlistTracks: []
       });
-      console.log(this.state.playlistName)
     });
   }
 
