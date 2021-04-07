@@ -1,5 +1,5 @@
 const clientId = 'ffba4b7ebcee4bab958ea4311b9f2161';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'http://cemmming.surge.sh';
 let accessToken;
 
 const Spotify = {
